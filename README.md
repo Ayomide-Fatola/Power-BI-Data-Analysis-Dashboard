@@ -1,6 +1,6 @@
 # Store-Sales-Data-Analysis (Interactive Dashboard using Power BI)
 ## Project Objective
-The store wants to create an annunal sales report for 2023 so that the owner of the store can unserstand their customers in the various regions and grow more sales in 2024
+The store wants to create an annual sales report for 2023 so that the owner of the store can unserstand their customers in the various regions and grow more sales in 2024
 
 ## Dataset used
 - <a href="https://github.com/Ayomide-Fatola/Power-BI-Data-Analysis-Dashboard/blob/main/Sales_Data%20(2).xlsx">Dataset</a>
